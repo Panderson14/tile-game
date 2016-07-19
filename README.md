@@ -1,2 +1,2 @@
-# tile-game
+# Tile Game
 This is the repository for a simple tile game that Aaqil Abdullah and Patrick Anderson will be developing to hone our programming skills. We plan to start out with creating a very basic tile game that only includes the bare minimum components for it to work. Over time, we will put our creative minds together to think of ways to make the tile game more fun and more aesthetic, so that by the end of it we will have full mastery over the programming necessary to create a tile game. By that point, we will feel much more comfortable developing more ambitious and original games.
